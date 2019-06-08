@@ -1,2 +1,2 @@
 # Multiple-Regression-Analysis
-The  code is employed to process the multiple regression analysis between variables in R language.
+The script.R is employed to process the multiple regression analysis between variables in R language.
